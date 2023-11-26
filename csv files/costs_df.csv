@@ -1,0 +1,118 @@
+school_name,course_name,duration_weeks,cost,school_id
+ironhack,Web Development,9 ,10920.0,10828
+ironhack,Web Development,24 ,11830.0,10828
+ironhack,UX/UI Design,9 ,10920.0,10828
+ironhack,UX/UI Design,24 ,11830.0,10828
+ironhack,Cyber Security,12 ,7500.0,10828
+ironhack,Cyber Security,not specified,7500.0,10828
+ironhack,Data Analytics,9 ,7500.0,10828
+ironhack,Data Analytics,24 ,8000.0,10828
+app-academy,16-Week Online Full-Time Accelerated Software Engineering Bootcamp,not specified,0.0,10525
+app-academy,16-week Software Engineering Program,16 ,15470.0,10525
+app-academy,24-week Software Engineering Program (Full Time),24 ,18200.0,10525
+app-academy,48-week Software Engineering Program (Part Time),52 ,20020.0,10525
+app-academy,App Academy Open,not specified,0.0,10525
+app-academy,Bootcamp Prep,4 ,455.0,10525
+app-academy,Bootcamp Prep Self-Paced,4 ,455.0,10525
+brainstation,Artificial Intelligence Course,5 ,2957.5,10571
+brainstation,Cyber Security,12 ,15015.0,10571
+brainstation,Cyber Security,10 ,2957.5,10571
+brainstation,Data Analytics,10 ,2957.5,10571
+brainstation,Data Science Bootcamp,12 ,15015.0,10571
+brainstation,Data Science Course,10 ,2957.5,10571
+brainstation,Design Leadership Course,8 ,3594.5,10571
+brainstation,Digital Marketing Course,8 ,2957.5,10571
+brainstation,Marketing Leadership Course,8 ,3594.5,10571
+brainstation,Product Leadership Course,8 ,3594.5,10571
+udacity,AI Programming with Python,12 ,980.07,11118
+udacity,Al Product Manager,8 ,653.38,11118
+udacity,Android Basics,12 ,980.07,11118
+udacity,Android Developer,16 ,1960.14,11118
+udacity,Artificial Intelligence,12 ,980.07,11118
+udacity,Artificial Intelligence for Trading,24 ,1960.14,11118
+udacity,Blockchain Developer,16 ,1306.76,11118
+udacity,Business Analytics,12 ,980.07,11118
+udacity,C++,16 ,1306.76,11118
+udacity,Cloud Dev Ops Engineer,16 ,1306.76,11118
+design-sprint-school,Live Online Design Sprint Experience,5 ,71.89,10698
+design-sprint-school,Online Bootcamp (self-paced),4 ,71.89,10698
+neoland,Data Science Bootcamp,12 ,6950.0,10906
+neoland,Data Science Part-Time,36 ,6950.0,10906
+neoland,Full Stack Part-Time,36 ,6950.0,10906
+neoland,UX/UI Design,12 ,6950.0,10906
+neoland,UX/UI Design,36 ,6950.0,10906
+neoland,Web Development,12 ,6950.0,10906
+ux-design-institute,UX/UI Design,6 ,977.5,11150
+ux-design-institute,Professional Certificate in UI Design,12 ,2012.5,11150
+ux-design-institute,UX/UI Design,24 ,3392.5,11150
+careerfoundry,Animation for UI Designers Course,8 ,1820.0,10581
+careerfoundry,Web Development,8 ,1820.0,10581
+careerfoundry,Data Analytics,32 ,6279.0,10581
+careerfoundry,Digital Marketing Program,28 ,6279.0,10581
+careerfoundry,Frontend Development for Designers Course,8 ,1820.0,10581
+careerfoundry,Web Development,40 ,7735.0,10581
+careerfoundry,Data Analytics,4 ,627.9,10581
+careerfoundry,Intro to Digital Marketing Course,4 ,627.9,10581
+careerfoundry,Intro to Frontend Development Course,4 ,627.9,10581
+careerfoundry,Intro to Product Management Course,4 ,627.9,10581
+springboard,Web Development,not specified,0.0,11035
+springboard,Cyber Security,24 ,9009.0,11035
+springboard,Data Analytics,24 ,7735.0,11035
+springboard,Data Science Career Track,24 ,9009.0,11035
+springboard,Data Science Career Track Prep,6 ,445.9,11035
+springboard,Data Analytics,4 ,317.59,11035
+springboard,Software Engineering Foundations to Core,40 ,9009.0,11035
+springboard,Tech Sales Career Track,12 ,5369.0,11035
+springboard,Introduction to Design,4 ,317.59,11035
+springboard,Software Engineering Career Track,36 ,9009.0,11035
+codesmith,Full-Time Remote Software Engineering Immersive,13 ,19041.75,10643
+codesmith,Part-Time Software Engineering Immersive,38 ,19041.75,10643
+codesmith,CS Prep,2 ,841.75,10643
+codesmith,JavaScript for Beginners,2 ,318.5,10643
+codesmith,NYC Onsite Immersive,13 ,19041.75,10643
+devmountain,Web Development,13 ,9009.0,10710
+devmountain,Web Development,43 ,9009.0,10710
+devmountain,Coding Basics,4 ,44.59,10710
+devmountain,Web Development,16 ,9009.0,10710
+devmountain,iOS Development,13 ,9009.0,10710
+devmountain,Java Software Engineering,16 ,9009.0,10710
+devmountain,Python Software Engineering,16 ,9009.0,10710
+devmountain,Software QA Testing,6 ,4459.0,10710
+devmountain,Software QA Testing (Part-Time),13 ,4459.0,10710
+devmountain,User Experience Design,13 ,9009.0,10710
+le-wagon,Data Analytics,not specified,0.0,10868
+le-wagon,Data Analytics,not specified,0.0,10868
+le-wagon,Data Engineering - Full-Time,not specified,0.0,10868
+le-wagon,Data Engineering - Part-Time,not specified,0.0,10868
+le-wagon,Data Science & AI - Full-Time,not specified,0.0,10868
+le-wagon,Data Science & AI - Part-Time,not specified,0.0,10868
+le-wagon,Web Development,not specified,0.0,10868
+le-wagon,Web Development,not specified,0.0,10868
+tech-elevator,.NET Coding Bootcamp,not specified,15015.0,11056
+tech-elevator,Java Coding Bootcamp,not specified,15015.0,11056
+hack-reactor,12-Week Software Engineering Immersive (Full-Time),12 ,16361.8,10788
+hack-reactor,19-Week Software Engineering Online Immersive with JavaScript and Python (Full-Time),19 ,16361.8,10788
+fullstack-academy,Fullstack Academy AI & Machine Learning Bootcamp (Part-Time),26 ,12280.45,10751
+fullstack-academy,Fullstack Academy Cloud Computing Bootcamp (Part-Time),26 ,12280.45,10751
+fullstack-academy,Cyber Security,12 ,12280.45,10751
+fullstack-academy,Cyber Security,26 ,12280.45,10751
+fullstack-academy,Fullstack Academy Full-Time Software Engineering Immersive,16 ,18118.1,10751
+fullstack-academy,Fullstack Academy Part-Time Software Engineering Immersive,28 ,18118.1,10751
+fullstack-academy,Fullstack Academy Product Management Bootcamp,12 ,12280.45,10751
+fullstack-academy,Web Development,19 ,18118.1,10751
+fullstack-academy,Data Analytics,10 ,12280.45,10751
+fullstack-academy,Data Analytics,26 ,12280.45,10751
+the-tech-academy,Full-Time C# and .NET Framework Boot Camp,15 ,7234.5,11091
+the-tech-academy,Cyber Security,20 ,9646.0,11091
+the-tech-academy,Full-Time Data Science Boot Camp,16 ,7716.8,11091
+the-tech-academy,Web Development,10 ,4823.0,11091
+the-tech-academy,Full-Time Game Developer Boot Camp,22 ,10610.6,11091
+the-tech-academy,Full-Time Java and Android Developer Boot Camp,15 ,7234.5,11091
+the-tech-academy,Full-Time JavaScript Developer Boot Camp,17 ,8199.1,11091
+the-tech-academy,Full-Time Mobile App Developer,18 ,8681.4,11091
+the-tech-academy,Full-Time Python Developer Boot Camp,15 ,7234.5,11091
+the-tech-academy,Full-Time Software Developer Boot Camp,22 ,10610.6,11091
+bloomtech,Free Coding Course: Intro to HTML and CSS,not specified,0.0,10854
+bloomtech,Full Time Backend Development,36 ,19974.5,10854
+bloomtech,Full Time Data Science,24 ,19974.5,10854
+bloomtech,Web Development,24 ,19974.5,10854
