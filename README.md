@@ -32,7 +32,7 @@ success or lack thereof relative to Ironhack.
 
 In this project we answered two business questions:
 
-1- Analyze the best-rated bootcamps in cities where Iron hack has a campus 
+1- Analyze the 8 best-rated bootcamps of our dataframe
 
 2- Analyze the cost compared to duration of different courses in various tech bootcamps which have similar to programs that Ironhack hosts. (Similar: UI/UX Design – Data Analysis – Cuber security – Web Development) 
 
@@ -40,7 +40,7 @@ In this project we answered two business questions:
 <a name="Structure"></a>
 
 ### Files Avaiable:
-Our project is divided between six main files. The web scraping file of Switchup website, the database file that creates the database in SQL, the two csv files that were generated from the web scraping file to make the analyses, the ERD file with
+Our project is divided between seven main files. The web scraping file of Switchup website, the database file that creates the database in SQL, the two csv files that were generated from the web scraping file to make the analyses, the ERD file with
 the tables generated in SQL and it's connexions and the SQL file with the script for the tables.
 
 - scraper_modified.ipynb
@@ -50,16 +50,13 @@ the tables generated in SQL and it's connexions and the SQL file with the script
 - database.ipynb
     File that creates the SQL tables with sqlalchemy and mysql connector python.
   
-- comments_df.csv
-    csv file generated in the scraper_modified.ipynb file, to import the information from costs to tableau to make the analyses of the first business question and the data visualization from that question..
-
-- costs_df.csv
-    csv file generated in the scraper_modified.ipynb file, to import the information from costs to tableau to make the analyses of the second business question and the data visualization from that question.
+- csv files
+    csv files generated in the scraper_modified.ipynb file, to import the information to tableau to make the analyses of the business questions and the data visualization from the questions.
 
 - ERD_Schema.pdf
     file with the design of the tables generated in SQL and it's connexions.
 
-- .sql
+- making_db.sql
       the SQL file with the schema for the tables.
 
 
